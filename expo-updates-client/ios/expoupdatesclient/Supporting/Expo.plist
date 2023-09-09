@@ -38,6 +38,6 @@ ZA==
     <key>EXUpdatesRuntimeVersion</key>
     <string>2</string>
     <key>EXUpdatesURL</key>
-    <string>https://app.devekhool.com/api/manifest</string>
+    <string>http://ec2-3-95-167-233.compute-1.amazonaws.com/api/manifest</string>
   </dict>
 </plist>

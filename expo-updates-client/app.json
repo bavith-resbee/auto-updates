@@ -13,7 +13,7 @@
     },
     "runtimeVersion": "2",
     "updates": {
-      "url": "https://app.devekhool.com/api/manifest",
+      "url": "http://ec2-3-95-167-233.compute-1.amazonaws.com/api/manifest",
       "enabled": true,
       "fallbackToCacheTimeout": 30000,
       "codeSigningCertificate": "./code-signing/certificate.pem",
